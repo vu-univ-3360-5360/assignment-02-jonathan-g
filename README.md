@@ -1,12 +1,14 @@
 # Assignment #2
 
+Here is some new text.
+
 For this assignment:
 
 * Clone this assignment repository to your own computer.
 * From your homework for Assignment #1 (Data Camp exercises in python),
   save each section as a separate python file, called `part_01.py`,
   `part_02.py`, ...
-  
+
   The different sections are the pieces of code that start
   ```
   # datadotworld module has been imported as dw
